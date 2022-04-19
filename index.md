@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Friends Squad"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad that my friends are present here.
