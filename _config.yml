@@ -1,8 +1,7 @@
 title: Our friends squad
 author: nityanand86876
 email: nnt@nnt1.tk
-description: > # this means to ignore newlines until "baseurl:"
-This is a friend's website
+description: This is a friend's website
 
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
